@@ -1,0 +1,4 @@
+name: NoCapsCommand
+main: org.inventivetalent.nocapscommand.NoCapsCommand
+author: inventivetalent
+version: ${project.version}

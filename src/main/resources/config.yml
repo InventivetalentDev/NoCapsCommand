@@ -1,0 +1,16 @@
+# Possible typos of /
+alternatives:
+- '7'
+- '&'
+- '6'
+- '('
+- '8'
+
+# Message to send to the player
+message: '&cYour latest message started with &7%s&c. &aDid you accidentally type that instead of a &7/&a? If you did not, just send the message again.'
+
+# Automatically correct the / and execute the command
+autoCorrect: false
+
+# Timeout (seconds) to wait for players to send the message again
+timeout: 10
