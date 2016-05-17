@@ -52,6 +52,7 @@
                                 <includes>
                                     <include>org.mcstats.*</include>
                                     <include>org.inventivetalent:nocapscommand**</include>
+                                    <include>org.inventivetalent:pluginannotations</include>
                                 </includes>
                             </artifactSet>
                             <relocations>

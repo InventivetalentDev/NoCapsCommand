@@ -47,6 +47,7 @@
                 <includes>
                   <include>org.mcstats.*</include>
                   <include>org.inventivetalent:nocapscommand**</include>
+                  <include>org.inventivetalent:pluginannotations</include>
                 </includes>
               </artifactSet>
               <relocations>
@@ -108,12 +109,6 @@
       <groupId>org.inventivetalent.spiget-update</groupId>
       <artifactId>bukkit</artifactId>
       <version>[1.0.1,)</version>
-      <scope>compile</scope>
-    </dependency>
-    <dependency>
-      <groupId>org.inventivetalent</groupId>
-      <artifactId>pluginannotations</artifactId>
-      <version>[1.4.0,)</version>
       <scope>compile</scope>
     </dependency>
   </dependencies>
